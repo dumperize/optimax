@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "name": "Good1",
+      "price": 1234
+    },
+    {
+      "id": 2,
+      "name": "Good2",
+      "price": 23
+    },
+    {
+      "id": 3,
+      "name": "Good3",
+      "price": 34
+    },
+    {
+      "id": 4,
+      "name": "Good4",
+      "price": 23
+    },
+    {
+      "id": 5,
+      "name": "Good5",
+      "price": 654
+    },
+    {
+      "id": 6,
+      "name": "Good6",
+      "price": 654
+    },
+    {
+      "id": 7,
+      "name": "Good7",
+      "price": 654
+    },
+    {
+      "id": 8,
+      "name": "Good8",
+      "price": 654
+    },
+    {
+      "id": 9,
+      "name": "Good9",
+      "price": 654
+    }
+  ]
+  
